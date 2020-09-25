@@ -20,7 +20,10 @@ export default props => (
                     <a class="nav-link" href="#/todos">Todo</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="#/about">Sobre</a>
+                    <a class="nav-link" href="#/about">Sobre</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#/help">Ajuda</a>
                 </li>
                 </ul>
                 
